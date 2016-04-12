@@ -1,4 +1,3 @@
-#Victorize
+#Great Leaderize
 
-A basic browser extension which i was created for fun. There is nothing extra in the source, as you probably saw. I've 
-just uploaded it for request.
+Get the Great Leader in your Facebook feed!
